@@ -6,25 +6,16 @@
 **/
 
 
------------------------------------------------------------------------
-Title
------------------------------------------------------------------------
-
-<h1>
-	L'Eglise Bethel
-</h1
-<h2>
-	Assemblee Chretienne
-</h2>
-
-
-
-
 
 
 -----------------------------------------------------------------------
 Home
 -----------------------------------------------------------------------
+
+
+Title
+-----
+L'Eglise Bethel Assemblee Chretienne
 
 
 Welcome
@@ -46,6 +37,7 @@ Video
 -----
 "Sunday Jan 12. 2014"
 Bethel's Anniversary
+https://youtu.be/q5OlGhhLM3c
 
 
 
@@ -110,6 +102,9 @@ Sidebar
 About Us
 -----------------------------------------------------------------------
 
+Photos
+------
+	pic1.gif
 
 
 
@@ -120,6 +115,13 @@ About Us
 Pastor
 -----------------------------------------------------------------------
 
+Photos
+------
+Pastor Serge Demosthernes	
+pastor.gif
+
+
+
 
 
 
@@ -127,6 +129,11 @@ Pastor
 -----------------------------------------------------------------------
 Worship
 -----------------------------------------------------------------------
+
+Video
+-----
+worship
+https://youtu.be/PnobbcnuFnI
 
 
 
@@ -136,6 +143,9 @@ Worship
 Staff
 -----------------------------------------------------------------------
 
+Photo
+-----
+assemblee2.gif
 
 
 
@@ -146,7 +156,25 @@ Transportation
 -----------------------------------------------------------------------
 
 
+TRANSPORTATION
 
+L'EGLISE BETHEL ASSEMBLEE CHRETIENNE PROVIDE TRANSPORTATION.
+
+
+PLEASE CONTACT
+
+BENNY: 609-969-4967
+
+JEANJEAN: 609-241-4987
+
+PASTOR SERGE DEMOSTHERNES: 609-363-4035
+
+
+
+
+Photo
+-----
+van.gif
 
 
 
@@ -154,3 +182,9 @@ Transportation
 -----------------------------------------------------------------------
 Contact Us
 -----------------------------------------------------------------------
+
+L'Eglise Bethel Assemblee Chretienne
+250 W. White Horse Pike
+Galloway TWP
+New Jersey, 08205
+(609) 363-4035
