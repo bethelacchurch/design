@@ -4,12 +4,12 @@
 
 * Status: ✔ In Development
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
-* Description: This branch holds assets for the organization's static site
+* Description: This branch holds design assets for this project
 * Author: [Randy Champagne](http://www.randychampagne.com)
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v2.0
 * License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
-* Tech Stack: HTML5 Bootstrap
+* Tech Stack: Sketch Invision Photoshop
 
 ## About
 
