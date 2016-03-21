@@ -49,4 +49,5 @@ client/public/libs
 .sass-cache
 
 # Swap space between sketch & inVision
-inVision\ on\ DropBox
+#inVision\ on\ DropBox
+inVision\ swap
