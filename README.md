@@ -1,7 +1,6 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
 # Product Development repository
-** L'Eglise Bethel Assemblee Chretienne in Atlantic City
 
 * Status: ✔ In Development
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
@@ -13,6 +12,8 @@
 * Tech Stack: Sketch Zeplin Invision Lightroom Photoshop
 
 ## About
+
+**L'Eglise Bethel Assemblee Chretienne in Atlantic City**
 
 The Church of the Open Door, or COD as we affectionately call it, is a community of faith, passionate to see the grace of God transform lives, families, communities, and culture in Atlantic City.
 
