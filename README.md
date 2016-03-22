@@ -1,7 +1,7 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
 # Product Development repository
-## L'Eglise Bethel Assemblee Chretienne in Atlantic City
+** L'Eglise Bethel Assemblee Chretienne in Atlantic City
 
 * Status: ✔ In Development
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
