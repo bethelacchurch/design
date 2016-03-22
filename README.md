@@ -18,10 +18,14 @@ Church of the Open Door, or COD as we affectionately call it, is a community of 
 Behind this passion is our historic commitment to the Gospel of Christ and the Word of God. We take Jesus’ simple command to make disciples of all nations seriously. We feel that disciples are made in the context of a healthy local church where believers feel safe enough to pursue their destiny in Christ under the leadership of loving under-shepherds.
 
 
-## Installation
+## Product Development Highlights
 
 
-* <small>Comming Soon</small>
+* Mobile-First Resppnsive Design
+* User-centered UX Research
+* Visual Design completed with Sketch
+* Visual assets exported with Zeplin
+* Prototyping through inVision
 
 
 
