@@ -13,8 +13,7 @@
 
 ## About
 
-**L'Église Béthel Assemblée Chrétienne**
-**Atlantic City**
+**L'Église Béthel Assemblée Chrétienne<br>Atlantic City**
 
 The Church of the Open Door, or COD as we affectionately call it, is a community of faith, passionate to see the grace of God transform lives, families, communities, and culture in Atlantic City.
 
