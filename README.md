@@ -20,7 +20,7 @@ The Church of the Open Door, or COD as we affectionately call it, is a community
 Behind this passion is our historic commitment to the Gospel of Christ and the Word of God. We take Jesus’ simple command to make disciples of all nations seriously. We feel that disciples are made in the context of a healthy local church where believers feel safe enough to pursue their destiny in Christ under the leadership of loving under-shepherds.
 
 
-## Product Development Highlights
+## Design Highlights
 
 
 * Mobile-First Resppnsive Design
@@ -33,5 +33,5 @@ Behind this passion is our historic commitment to the Gospel of Christ and the W
 
 ## Changelog
 
-####0.1.0
+####0.0.1
 * Initial development
